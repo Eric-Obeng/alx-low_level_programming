@@ -4,8 +4,8 @@
  * Return: 0 when successful
  * Description - The program should return 0
  */
-int main(void)
+int _putchar()
 {
-	_putchar("_putchar\n");
+	printf("_putchar\n");
 	return (0);
 }
